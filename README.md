@@ -1,5 +1,8 @@
 # Data Analysis of the Secret Skirmish
 
+Analysis was done in Python with Pandas and Matplotlib.
+The data can be found [here](SecretSkirmishKillFeed.csv).
+
 I recently discovered that the killfeed for the Secret Skirmish Solos event was broadcasted, so in this thread, I try to present this data in a meaningful way. The hardest part was definitely gathering the data. The killfeed VODs were not saved, so I had to go through Twitch Clips and Myth's stream to manually collect the data. In total, it took me 6 hours to collect everything. It wasn't fun, but someone had to do it.
 
 As a disclaimer, I'm not a stats or data science guy by any means, but I'm trying to get better at it. So, feel free to leave some criticism or suggestions on other data I could present.
