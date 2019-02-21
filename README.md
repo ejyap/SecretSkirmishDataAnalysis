@@ -37,7 +37,7 @@ Notice how 9 of the top 10 killers make it to Top 10 overall. This implies that 
 
 We can try to infer the playstyles of the top 20 Players by looking at how their kills are distributed across early, mid, and late-game. In the following graph, black dots represent kills and red dots represent deaths. Each box represents the distribution of kills across storm phases for each player.
 
-[Distribution of Kills across Storm Phases for Top 20 Players](https://imgur.com/X3FNzS6)
+![Distribution of Kills across Storm Phases for Top 20 Players](https://github.com/ejyap/SecretSkirmishDataAnalysis/blob/master/graph.png)
 
 Bizzle (17 kills) and Saf (20 kills) consistenly made it to end game and were actively getting kills during all phases of the game. Vivid (17 kills) suffered from 2 early/mid game deaths, putting him behind Saf and Bizzle. Just goes to show the importance of being strong in all 3 phases of the game consistently. 
 
