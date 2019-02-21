@@ -1,5 +1,7 @@
 # Data Analysis of the Secret Skirmish
 
+[Original reddit thread](https://www.reddit.com/r/FortniteCompetitive/comments/asa8vy/data_analysis_of_the_secret_skirmish_full/)
+
 Analysis was done in Python with Pandas and Matplotlib.
 The data can be found [here](SecretSkirmishKillFeed.csv).
 
